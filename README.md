@@ -1,4 +1,4 @@
-# Using POWERBI and Python to to analyze engagement and conversion rates for online retail
+# Using POWERBI and Python to to analyze engagement and conversion rates for online retail.
 
 This project solves a business problem related to engagement and conversion rates for an online retail business.
 
