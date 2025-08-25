@@ -22,5 +22,5 @@ The data should be imported into POWERBI Desktop. The SQL statements that manipu
 
 **VISUALIZATION:**
 
-The pbix file has been attached. A sample analysis of the visuals is in "POWERBI Marketing Analysis.pptx".
+The pbix file has been attached. A sample summary of the visuals is in "POWERBI Marketing Analysis.pptx".
 
